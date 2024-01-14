@@ -23,7 +23,7 @@ export default function About() {
                 </a>
                 <a
                   href="https://www.linkedin.com/in/douglas-gray-8b5290261/">
-                  <img className="ml-4 inline-flex object-contain h-10 w-10 hover:opacity-60" src="linkedinLogo.png" alt="briefcase"/>  
+                  <img className="ml-4 inline-flex object-contain h-10 w-10 hover:opacity-60" src="linLogo.png" alt="briefcase"/>  
                 </a>
                 <a
                   href="#projects"
