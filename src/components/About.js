@@ -19,11 +19,11 @@ export default function About() {
               <div className="flex justify-center">
               <a 
                   href="https://github.com/Douglas-Gray">
-                  <img className="ml-4 inline-flex object-contain h-10 w-10 hover:opacity-60" src="gitLogo.png" alt="HTML tutorial"/>
+                  <img className="ml-4 inline-flex object-contain h-10 w-10 hover:opacity-60" src="gitLogo.png" alt="collection"/>
                 </a>
                 <a
                   href="https://www.linkedin.com/in/douglas-gray-8b5290261/">
-                  <img className="ml-4 inline-flex object-contain h-10 w-10 hover:opacity-60" src="linkedinLogo.png" alt="HTML tutorial"/>  
+                  <img className="ml-4 inline-flex object-contain h-10 w-10 hover:opacity-60" src="linkedinLogo.png" alt="briefcase"/>  
                 </a>
                 <a
                   href="#projects"
