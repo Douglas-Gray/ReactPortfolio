@@ -25,11 +25,6 @@ export default function About() {
                   href="https://www.linkedin.com/in/douglas-gray-8b5290261/">
                   <img className="ml-4 inline-flex object-contain h-10 w-10 hover:opacity-60" src="linLogo.png" alt="briefcase"/>  
                 </a>
-                <a
-                  href="#projects"
-                  className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-600 hover:text-white rounded text-lg">
-                  See My Past Work
-                </a>
               </div>
           
             </div>
