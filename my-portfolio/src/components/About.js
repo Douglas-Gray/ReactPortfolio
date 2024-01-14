@@ -14,7 +14,7 @@ export default function About() {
               <p className="mb-8 leading-relaxed">
               Computer Science graduate at Newcastle University specified in Software Engineering.
               Experience with website development (React.js, Node.js, HTML, CSS, JavaScript), Arch based Linux distributions
-              and general programming experience in Python, Java, C and C#. 
+              and general programming experience in Python, Java, C, C++ & C#. 
               </p>
               <div className="flex justify-center">
               <a 
