@@ -14,7 +14,7 @@ export default function Qualifications() {
             Qualifications I've Earned
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Listed below are the main qualifications I've earned surrounding Programming, Software and Digital Technologies.
+            Listed below are the main qualifications I've earned surrounding Programming, Software and Digital Technologies. 
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -22,14 +22,14 @@ export default function Qualifications() {
             <a
               href={qualification.link}
               key={qualification.image}
-              className="sm:w-1/2 w-100 p-4">
-              <div className="flex relative">
+              className="sm:w-1/2 h-full mt-auto mb-auto p-4">
+              <div className="relative h-full">
                 <img
                   alt="gallery"
                   className="absolute opacity-70 rounded-lg shadow-xl dark:shadow-gray-900 inset-0 w-full h-full object-cover object-center"
                   src={qualification.image}
                 />
-                <div className="px-8 py-10 relative z-10 w-full border-4 rounded-lg border-gray-800  bg-gray-900 opacity-0 hover:opacity-100">
+                <div className="px-8 py-10 relative z-10 w-full border-4 rounded-lg border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">
                     {qualification.subtitle}
                   </h2>
